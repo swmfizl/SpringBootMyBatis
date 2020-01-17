@@ -336,7 +336,3 @@ mybatis.type-aliases-package=com.mybatis.entity
 ###### 3.4.4 删除演示-返回删除行数1，删除成功
 
 <img src="https://img-blog.csdnimg.cn/20190915154311808.png">
-
-#### 四、Github 地址
-
-<a href="https://github.com/swmfizl/SpringBootMyBatis" style="text-decoration: none">SpringBootMyBatis</a>
